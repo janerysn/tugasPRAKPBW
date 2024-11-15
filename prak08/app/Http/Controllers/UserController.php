@@ -23,9 +23,9 @@ class UserController extends Controller
         return view('users.index', compact('users'));
     }
 
-    public function create(){
+    public function create()
+    {
         return view('users.create');
-        // dd("halo");
     }
 
     public function store(Request $request)
@@ -39,5 +39,13 @@ class UserController extends Controller
         // dd($request->only('name', 'email', 'password'));
         User::create($validated);
         return redirect('/users');
+    }
+
+    public function show($id)
+    {
+        $user = User::findOrFail($id);
+        // $user = User::where('username',$id)->first();
+        abort_if(!$user, 404);
+        return view('users/show', compact('user'));
     }
 }

@@ -24,6 +24,8 @@
                     </x-table.th>
                     <x-table.th>Creat-at
                     </x-table.th>
+                    <x-table.th>Action
+                    </x-table.th>
                 </tr>
             </x-table.thead>
             <x-table.tbody>
@@ -31,7 +33,8 @@
                 <tr>
                     <x-table.td>
                         {{$user->id}}
-                        <!-- kalo data tidak beraturan maka seharusnya menggunakan iteriton -->
+                        <!-- kalo data tidak beraturan maka seharusnya menggunakan iteriton :
+                         $loop->iteration -->
                     </x-table.td>
                     <x-table.td>
                         {{$user->name}}
@@ -43,7 +46,13 @@
                         {{$user->created_at->format('d M Y')}} ||
                         {{$user->created_at->diffForHumans()}}
                     </x-table.td>
-                </tr>@endforeach
+                    <x-table.td>
+                        <a href="/users/{{$user->id}}" target="_blank" rel="noopener noreferrer">
+                            View
+                        </a>
+                    </x-table.td>
+                </tr>
+                @endforeach
             </x-table.tbody>
         </x-table>
     </div>
