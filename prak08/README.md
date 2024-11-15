@@ -1,66 +1,54 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# PRAKTIKUM 08 <br>
+Output Materi 1 (Setup Laravel) <br>
+![image](https://github.com/user-attachments/assets/41f60230-8ef5-4a17-a27d-a6fbda32cc3a)<br>
+Output Materi 2 (Routing dan View)<br>
+![image](https://github.com/user-attachments/assets/73e7c1dc-9cc3-4b34-bb36-d8e802d8389a)<br>
+![image](https://github.com/user-attachments/assets/a1c2e1fe-db44-43e0-8790-7ee6113bd6b9)<br>
+![image](https://github.com/user-attachments/assets/baa8cdd3-8bb8-43bc-b42b-6135db6b9413)<br>
+![image](https://github.com/user-attachments/assets/ee3a93b8-b953-4d64-a307-48d9c915a97d)<br>
+Output Materi 3 (Styling)<br>
+![image](https://github.com/user-attachments/assets/42ce1ce5-4486-4be2-a57f-e3d6fbe96630)<br>
+![image](https://github.com/user-attachments/assets/8713c6ef-6f97-43aa-86cc-bec6733bd1bb)<br>
+![image](https://github.com/user-attachments/assets/9a8468ca-ea21-4d34-9b89-b8533faa25b3)<br>
+![image](https://github.com/user-attachments/assets/5483ff70-a68b-46e7-9901-055d15d6f4de)<br>
+![image](https://github.com/user-attachments/assets/a5cf93e9-6fea-4346-b35c-9f4e972e3f10)<br>
+![image](https://github.com/user-attachments/assets/8b8e6970-344d-47a0-805e-ee3eb07cf77f)<br>
+![image](https://github.com/user-attachments/assets/e17e5a5d-6283-414c-9813-a12fb27dbb03)<br>
+Output Materi 4 (Active State)<br>
+![image](https://github.com/user-attachments/assets/df5ca33c-699f-46ae-a5e6-5c90096e744b)<br>
+![image](https://github.com/user-attachments/assets/6af20759-d74c-44bd-b38d-e9b5276db14c)<br>
+![image](https://github.com/user-attachments/assets/9e632c0a-d830-478b-90df-2d06301db5b9)<br>
+![image](https://github.com/user-attachments/assets/bedf7119-d594-43fb-9d2d-ded5f07c4512)<br>
+![image](https://github.com/user-attachments/assets/9c1938ae-1383-4182-8f46-c9377cb9ab58)<br>
+Output Materi 5 (Controller)<br>
+![image](https://github.com/user-attachments/assets/bd785590-09f7-4f2a-8a77-5f527dcf3b11)<br>
+![image](https://github.com/user-attachments/assets/98618dce-4499-4707-8ac6-c6128d698d25)<br>
+![image](https://github.com/user-attachments/assets/a1d78ea3-fd85-4d5e-947b-668d16cece99)<br>
+![image](https://github.com/user-attachments/assets/c0ec7d6c-0366-4a99-8e39-d5b256b3b739)<br>
+![image](https://github.com/user-attachments/assets/7019c981-904d-456f-9727-bc2b817c204a)<br>
+![image](https://github.com/user-attachments/assets/68ce519e-c541-4e46-8814-92876b866569)<br>
+Output Materi 6 (Migration)<br>
+![image](https://github.com/user-attachments/assets/14c2245b-5cc9-440d-b5ee-ae382d03e945)<br>
+![image](https://github.com/user-attachments/assets/4c2d6a88-5b68-41af-be59-cc254b1eafc4)<br>
+<br>
+<br>
+# PRAKTIKUM 09<br>
+Output Materi 9 (Kondisi dalam Komponen)<br>
+![image](https://github.com/user-attachments/assets/21dec3f5-d48f-4efa-a64f-34bcd9c9945e)<br>
+![image](https://github.com/user-attachments/assets/02cfbd52-8643-4e1c-902f-725e4d776936)<br>
+![image](https://github.com/user-attachments/assets/8588bd59-23e4-44e6-821b-942b68118a35)<br>
+Output Materi 10 (Fillable and Guarded)<br>
+![image](https://github.com/user-attachments/assets/113feb44-5823-4435-92c2-5c4bf8b4b45c)<br>
+Output Materi 11(Validasi Data)<br>
+![image](https://github.com/user-attachments/assets/16acd50c-ab84-42b3-976d-ce420aaa3d88)<br>
+![image](https://github.com/user-attachments/assets/94c6649e-854c-4ceb-87df-8130064021e8)<br>
+Output Materi 12 (Route Wildcard)<br>
+![image](https://github.com/user-attachments/assets/a1f5c36e-1b1e-485f-8d1b-22ee7f65b575)<br>
+![image](https://github.com/user-attachments/assets/3abd0d30-ef09-4c24-b656-672cb4b8ab56)<br>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
