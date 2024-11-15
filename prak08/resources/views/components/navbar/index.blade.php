@@ -52,7 +52,7 @@
                 Contact</x-navbar.dropdown-item>
             <x-navbar.dropdown-item href="/gallery">
                 Gallery</x-navbar.dropdown-item>
-            <x-navbar.dropdown-item href="/user">
+            <x-navbar.dropdown-item href="/users">
                 User</x-navbar.dropdown-item>
         </div>
     </div>
