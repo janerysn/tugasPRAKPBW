@@ -53,7 +53,8 @@ Output Materi 13 (Update dan Refactor)<br>
 ![image](https://github.com/user-attachments/assets/1e9bc9f6-243f-4705-bc92-cfb683ae6891)<br>
 Output Materi 14 (Handle Request)<br>
 ![image](https://github.com/user-attachments/assets/19a5f69b-4a8b-47c1-a813-96132e541750)<br>
-
+Output Materi 15 (Delete)<br>
+![image](https://github.com/user-attachments/assets/5e6faff7-252c-4c05-af1a-671034711bbe)
 
 
 
