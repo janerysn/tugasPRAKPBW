@@ -57,6 +57,13 @@ Output Materi 15 (Delete)<br>
 ![image](https://github.com/user-attachments/assets/5e6faff7-252c-4c05-af1a-671034711bbe)<br>
 Output Materi 16 (Route Resource)<br>
 ![image](https://github.com/user-attachments/assets/9eefe3d0-e583-44d4-ac92-8fa863723cd6)<br>
+Output Materi 17 (Authenticate User)<br>
+![image](https://github.com/user-attachments/assets/cd930062-6f83-43a7-ac42-aa7ae1127bad)<br>
+![image](https://github.com/user-attachments/assets/7d1f61e0-4d2a-4035-a3a9-8ce88569a226)<br>
+![image](https://github.com/user-attachments/assets/ad31d4b7-1017-4992-8027-b78a629e11d4)<br>
+
+
+
 
 
 
