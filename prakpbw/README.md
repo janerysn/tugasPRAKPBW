@@ -49,9 +49,10 @@ Output Materi 12 (Route Wildcard)<br>
 <br>
 # PRAKTIKUM 10<br>
 Output Materi 13 (Update dan Refactor)<br>
-![image](https://github.com/user-attachments/assets/0fa3f49c-b6dd-493c-89dc-c3814fc615b8)
-![image](https://github.com/user-attachments/assets/1e9bc9f6-243f-4705-bc92-cfb683ae6891)
-
+![image](https://github.com/user-attachments/assets/0fa3f49c-b6dd-493c-89dc-c3814fc615b8)<br>
+![image](https://github.com/user-attachments/assets/1e9bc9f6-243f-4705-bc92-cfb683ae6891)<br>
+Output Materi 14 (Handle Request)<br>
+![image](https://github.com/user-attachments/assets/19a5f69b-4a8b-47c1-a813-96132e541750)<br>
 
 
 
