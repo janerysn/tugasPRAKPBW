@@ -32,6 +32,7 @@
                         <x-navbar.link href="{{ route('gallery') }}">
                             Gallery
                         </x-navbar.link>
+
                         @auth
                         <x-navbar.link href="{{ route('users.index') }}">
                             User
@@ -51,7 +52,8 @@
                         <x-navbar.link href="{{ route('login') }}">
                             Login
                         </x-navbar.link>
-                        @endauth 
+                        @endauth
+
                     </div>
 
                 </div>
