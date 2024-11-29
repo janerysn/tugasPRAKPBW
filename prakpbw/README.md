@@ -61,6 +61,12 @@ Output Materi 17 (Authenticate User)<br>
 <img src ="https://github.com/user-attachments/assets/cd930062-6f83-43a7-ac42-aa7ae1127bad" width= "600px"><br>
 <img src ="https://github.com/user-attachments/assets/7d1f61e0-4d2a-4035-a3a9-8ce88569a226" width= "600px"><br>
 <img src ="https://github.com/user-attachments/assets/ad31d4b7-1017-4992-8027-b78a629e11d4" width= "600px"><br>
+<br>
+<br>
+# PRAKTIKUM 11<br>
+Output Materi 18 (Laravel Breeze)<br>
+<img src ="https://github.com/user-attachments/assets/381d85c3-63e4-42bb-8af4-4107c582cb3a" width= "600px"><br>
+
 
 
 
