@@ -68,6 +68,9 @@ Output Materi 18 (Laravel Breeze)<br>
 <img src ="https://github.com/user-attachments/assets/381d85c3-63e4-42bb-8af4-4107c582cb3a" width= "600px"><br>
 Output Materi 19 (Table dan Komponen Card)<br>
 <img src ="https://github.com/user-attachments/assets/eedfde24-75db-482d-8f88-8561df56ddf9" width= "600px"><br>
+Output Materi 20 (FormRequest, Image dan Observer)<br>
+<img src ="https://github.com/user-attachments/assets/9b991e56-0cbf-4aef-aec2-30bd20478a84" width= "600px"><br>
+
 
 
 
