@@ -83,6 +83,9 @@ Output Materi 23 (Sending Email)<br>
 <img src ="https://github.com/user-attachments/assets/610209bc-3da5-46ff-8ecd-89fa52423852" width= "600px"><br>
 Output Materi 24 (Many to Many untuk Role)<br>
 <img src ="https://github.com/user-attachments/assets/8621b4ea-d8b5-433e-8254-d4b56e01ac9c" width= "600px"><br>
+Output Materi 25 (Custom Middleware Untuk Admin)
+<img src ="https://github.com/user-attachments/assets/2c9ba496-1ab1-4d35-8cca-42050d04f0ed" width= "600px"><br>
+
 
 
 
