@@ -70,6 +70,9 @@ Output Materi 19 (Table dan Komponen Card)<br>
 <img src ="https://github.com/user-attachments/assets/eedfde24-75db-482d-8f88-8561df56ddf9" width= "600px"><br>
 Output Materi 20 (FormRequest, Image dan Observer)<br>
 <img src ="https://github.com/user-attachments/assets/9b991e56-0cbf-4aef-aec2-30bd20478a84" width= "600px"><br>
+Output Materi 21 (Edit dan Refactoring)<br>
+<img src ="https://github.com/user-attachments/assets/db2ad5db-e98f-42dc-a80a-981ac0ce9cb9" width= "600px"><br>
+
 
 
 
