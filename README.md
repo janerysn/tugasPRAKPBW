@@ -81,6 +81,9 @@ Output Materi 23 (Sending Email)<br>
 <img src ="https://github.com/user-attachments/assets/d6b6e6c5-17c1-406a-94a4-731945aee125" width= "600px"><br>
 <img src ="https://github.com/user-attachments/assets/748989f5-93ed-4a16-ac3b-84a2015f7874" width= "600px"><br>
 <img src ="https://github.com/user-attachments/assets/610209bc-3da5-46ff-8ecd-89fa52423852" width= "600px"><br>
+Output Materi 24 (Many to Many untuk Role)<br>
+<img src ="https://github.com/user-attachments/assets/8621b4ea-d8b5-433e-8254-d4b56e01ac9c" width= "600px"><br>
+
 
 
 
