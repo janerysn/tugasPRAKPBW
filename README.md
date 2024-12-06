@@ -73,7 +73,9 @@ Output Materi 20 (FormRequest, Image dan Observer)<br>
 Output Materi 21 (Edit dan Refactoring)<br>
 <img src ="https://github.com/user-attachments/assets/db2ad5db-e98f-42dc-a80a-981ac0ce9cb9" width= "600px"><br>
 
-
+# PRAKTIKUM 12<br>
+Output Materi 22 (Laravel Gate dan Middleware)<br>
+<img src ="https://github.com/user-attachments/assets/de55a0a4-2fb2-40b0-98af-a853d3f0a114" width= "600px"><br>
 
 
 
