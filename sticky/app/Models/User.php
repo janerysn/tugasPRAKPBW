@@ -3,18 +3,19 @@
 namespace App\Models;
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
-use Illuminate\Database\Eloquent\Relations\belongsToMany;
+
 use Illuminate\Database\Eloquent\Relations\hasMany;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
-use Illuminate\Database\Eloquent\model;
+use App\Traits\HasRoles;
 
 class User extends Authenticatable implements MustVerifyEmail
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
-    use HasFactory, Notifiable;
-
+    use HasFactory;
+    use Notifiable;
+    use HasRoles;
     /**
      * The attributes that are mass assignable.
      *
@@ -52,15 +53,5 @@ class User extends Authenticatable implements MustVerifyEmail
     public function stores(): HasMany
     {
         return $this->hasMany(Store::class);
-    }
-
-    public function roles(): belongsToMany
-    {
-        return $this->belongsToMany(Role::class, 'user_role');
-    }
-
-    public function assignRole(Role $role): Model
-    {
-        return $this->roles()->save($role);
     }
 }
