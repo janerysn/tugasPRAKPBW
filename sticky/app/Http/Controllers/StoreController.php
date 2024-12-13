@@ -36,6 +36,7 @@ class StoreController extends Controller
      */
     public function index()
     {
+
         $stores = Store::query()
             ->where('status', StoreStatus::ACTIVE)
             ->latest()
@@ -111,7 +112,7 @@ class StoreController extends Controller
     {
         if ($request->hashFile('logo')) {
             Storage::delete($store->logo);
-            $file = $request->file('logo');
+            $file = $request->file('logo')->store('images/stores');
         } else {
             $file = $store->logo;
         }
@@ -119,7 +120,7 @@ class StoreController extends Controller
         $store->update([
             'name' => $request->name,
             'description' => $request->description,
-            'logo' => $file->store('images/stores'),
+            'logo' => $file,
         ]);
 
         return to_route('stores.index');
