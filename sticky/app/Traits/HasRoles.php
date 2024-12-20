@@ -8,25 +8,24 @@ use App\Models\Role;
 
 trait HasRoles
 {
-    public function roles(): belongsToMany
+    public function roles(): BelongsToMany
     {
         return $this->belongsToMany(Role::class, 'user_role');
     }
-
     public function assignRole(Role $role): Model
     {
         return $this->roles()->save($role);
     }
-    public function isAdmin()
+    public function isAdmin(): bool
     {
         return $this->hasRole('admin');
     }
-    public function isPartner()
+    public function isPartner(): bool
     {
         return $this->hasRole('partner');
     }
 
-    public function hasRole(string $role)
+    public function hasRole(string $role): bool
     {
         return $this->roles()->where('name', $role)->exists();
     }
