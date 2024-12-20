@@ -92,6 +92,11 @@ Output Materi 26 (Redesign dan Refactoring)<br>
 Output Materi 27 (Partner Auto Active)<br>
 <img src ="https://github.com/user-attachments/assets/89af2c36-8ddf-4a1e-a959-5839a7f6dcc5" width= "600px"><br>
 
+# PRAKTIKUM 14 <br>
+<img src ="https://github.com/user-attachments/assets/88e45e9b-cdcf-4ac6-8e3e-c237e3b2ef9e" width= "600px"><br>
+<img src ="https://github.com/user-attachments/assets/eaeae698-33ee-42c0-8952-27ea68d83587" width= "600px"><br>
+
+
 
 
 
